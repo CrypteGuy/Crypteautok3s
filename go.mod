@@ -84,7 +84,7 @@ require (
 	github.com/stretchr/testify v1.7.1
 	github.com/tencentcloud/tencentcloud-sdk-go v1.0.34
 	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3
-	golang.org/x/net v0.0.0-20211209124913-491a49abca63
+	golang.org/x/net v0.7.0
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	google.golang.org/api v0.62.0
@@ -108,7 +108,7 @@ require (
 	github.com/pkg/sftp v1.13.5
 	github.com/prometheus/client_golang v1.11.0
 	github.com/prometheus/common v0.32.0
-	golang.org/x/term v0.0.0-20220526004731-065cf7ba2467
+	golang.org/x/term v0.5.0
 )
 
 require (
@@ -224,8 +224,8 @@ require (
 	go.uber.org/zap v1.19.0 // indirect
 	go4.org/intern v0.0.0-20210108033219-3eb7198706b2 // indirect
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20201222180813-1025295fd063 // indirect
-	golang.org/x/sys v0.0.0-20220704084225-05e143d24a9e // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac // indirect
 	gomodules.xyz/jsonpatch/v2 v2.2.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
