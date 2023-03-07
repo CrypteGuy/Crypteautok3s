@@ -77,7 +77,7 @@ require (
 	github.com/opencontainers/runc v1.1.2 // indirect
 	github.com/rancher/apiserver v0.0.0-20211025232108-df28932a5627
 	github.com/rancher/k3d/v5 v5.2.2
-	github.com/rancher/wrangler v0.8.11-0.20211214201934-f5aa5d9f2e81
+	github.com/rancher/wrangler v0.8.11
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.3.0
 	github.com/spf13/pflag v1.0.5
